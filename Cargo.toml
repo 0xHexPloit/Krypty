@@ -11,5 +11,6 @@ path = "src/lib/mod.rs"
 
 [dependencies]
 clap = { version = "4.1.4", features = ["derive"] }
+hex = "0.4.3"
 rand = "0.8.5"
 thiserror = "1.0.38"

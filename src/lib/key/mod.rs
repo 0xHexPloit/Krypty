@@ -1,3 +1,3 @@
-mod generator;
+mod symmetric;
 
-pub use generator::{KeyGenerator};
+pub use symmetric::{SymmetricKey};
